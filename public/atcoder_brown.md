@@ -4,7 +4,7 @@ tags:
   - C++
   - AtCoder
 private: false
-updated_at: '2024-05-19T14:30:18+09:00'
+updated_at: '2024-05-19T14:39:52+09:00'
 id: bf28894a2afd3eedecb5
 organization_url_name: null
 slide: false
@@ -35,7 +35,8 @@ AI領域に興味があるため、深層学習の学習・実務への応用を
 
 そこから3月は42tokyoの試験に通い詰めだったため、4月から本格参戦。
 
-![茶色までのレートの軌跡](<Screenshot 2024-05-19 at 13.04.17.png>)
+![Screenshot 2024-05-19 at 13.04.17.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/455058/de217e10-aa7e-cb2b-df5c-bd07f2a46644.png)
+
 
 
 ## 実際にやったこと
