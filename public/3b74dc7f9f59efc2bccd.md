@@ -5,8 +5,8 @@ tags:
   - AtCoder
   - AtCoderBeginnerContest
 private: false
-updated_at: '2024-06-13T23:14:27+09:00'
-id: 6025e6805d29aefdb269
+updated_at: '2024-06-13T23:13:15+09:00'
+id: 3b74dc7f9f59efc2bccd
 organization_url_name: null
 slide: false
 ignorePublish: false
